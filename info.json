@@ -1,434 +1,114 @@
 {
     "available_space": true,
     "size_max": 34.062456130981445,
-    "size_mean": 9.512997066273408,
-    "size_min": 0.8271608352661133,
-    "total_size": 808.6047506332397,
+    "size_mean": 10.549799619402204,
+    "size_min": 2.2421350479125977,
+    "total_size": 369.24298667907715,
     "video_list": {
-        "Audioslave - I Am The Highway-cy2ZUGc2mSs.mp4": {
-            "image": "https://i.ytimg.com/vi/cy2ZUGc2mSs/hqdefault.jpg",
-            "size": 21.9224853515625,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Audioslave%20-%20I%20Am%20The%20Highway-cy2ZUGc2mSs.mp4?raw=true"
-        },
-        "Audioslave - Show Me How to Live (Official Video)-vVXIK1xCRpY.mp4": {
-            "image": "https://i.ytimg.com/vi/vVXIK1xCRpY/hqdefault.jpg",
-            "size": 19.01769733428955,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Audioslave%20-%20Show%20Me%20How%20to%20Live%20(Official%20Video)-vVXIK1xCRpY.mp4?raw=true"
-        },
-        "Aunque con sangre lloremos - Poncho k-lnvyHtig8QQ.mp4": {
-            "image": "https://i.ytimg.com/vi/lnvyHtig8QQ/hqdefault.jpg",
-            "size": 3.865083694458008,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Aunque%20con%20sangre%20lloremos%20-%20Poncho%20k-lnvyHtig8QQ.mp4?raw=true"
-        },
-        "Auto Rojo - Vilma Palma e Vampiros (Video Oficial)-95kf6cCasfg.mp4": {
-            "image": "https://i.ytimg.com/vi/95kf6cCasfg/hqdefault.jpg",
-            "size": 19.219837188720703,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Auto%20Rojo%20-%20Vilma%20Palma%20e%20Vampiros%20(Video%20Oficial)-95kf6cCasfg.mp4?raw=true"
-        },
-        "BUNBURY - \u00c1nimas, que no amanezca  (videoclip)-ZAgg9IWTfYQ.mp4": {
-            "image": "https://i.ytimg.com/vi/ZAgg9IWTfYQ/hqdefault.jpg",
-            "size": 20.521997451782227,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/BUNBURY%20-%20%C3%81nimas%2C%20que%20no%20amanezca%20%20(videoclip)-ZAgg9IWTfYQ.mp4?raw=true"
-        },
-        "Bud Powell - Dance of the Infidels--5K6b3WHUj0.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 5.082353591918945,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Bud%20Powell%20-%20Dance%20of%20the%20Infidels--5K6b3WHUj0.mp4?raw=true"
-        },
-        "Butterflies and Hurricanes-wIZ-iYNRHWE.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 12.266382217407227,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Butterflies%20and%20Hurricanes-wIZ-iYNRHWE.mp4?raw=true"
-        },
-        "CUMBIA MORENA (AUDIO ORIGINAL) - \ud83d\udd25LA CONCENTRACION\ud83d\udd25 #LACONCECUMBIAS-VizSJmYbOD8.mp4": {
-            "image": "https://i.ytimg.com/vi/VizSJmYbOD8/hqdefault.jpg",
-            "size": 6.961336135864258,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/CUMBIA%20MORENA%20(AUDIO%20ORIGINAL)%20-%20%F0%9F%94%A5LA%20CONCENTRACION%F0%9F%94%A5%20%23LACONCECUMBIAS-VizSJmYbOD8.mp4?raw=true"
-        },
-        "Cuanta cacota I-4gkHw00BBD4.mp4": {
-            "image": "https://i.ytimg.com/vi/4gkHw00BBD4/hqdefault.jpg",
-            "size": 3.1931304931640625,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Cuanta%20cacota%20I-4gkHw00BBD4.mp4?raw=true"
-        },
-        "Culpable Soy Yo - Gera MX (Video Oficial)-YDIew2iEvBw.mp4": {
-            "image": "https://i.ytimg.com/vi/YDIew2iEvBw/hqdefault.jpg",
-            "size": 12.444477081298828,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Culpable%20Soy%20Yo%20-%20Gera%20MX%20(Video%20Oficial)-YDIew2iEvBw.mp4?raw=true"
-        },
-        "DUKI - OTRO M\u00c1S \ud83d\udeac-RXNLgvwf-rU.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 10.448465347290039,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/DUKI%20-%20OTRO%20M%C3%81S%20%F0%9F%9A%AC-RXNLgvwf-rU.mp4?raw=true"
-        },
-        "Europe - I'll Cry For You (Official Music Video)-FoeYA4TmAcc.mp4": {
-            "image": "https://i.ytimg.com/vi/FoeYA4TmAcc/hqdefault.jpg",
-            "size": 21.025139808654785,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Europe%20-%20I'll%20Cry%20For%20You%20(Official%20Music%20Video)-FoeYA4TmAcc.mp4?raw=true"
-        },
-        "Guy Mitchell - Heartache by the Numbers 50s-fmRjgWW8yn0.mp4": {
-            "image": "https://i.ytimg.com/vi/fmRjgWW8yn0/hqdefault.jpg",
-            "size": 4.238271713256836,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Guy%20Mitchell%20-%20Heartache%20by%20the%20Numbers%2050s-fmRjgWW8yn0.mp4?raw=true"
-        },
-        "Hurricane Amore-UhytGQUOUf4.mp4": {
-            "image": "https://i.ytimg.com/vi/UhytGQUOUf4/hqdefault.jpg",
-            "size": 9.013312339782715,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Hurricane%20Amore-UhytGQUOUf4.mp4?raw=true"
-        },
-        "Im Content with Losing -Underoath + Lyrics-W8N0_JZjuNE.mp4": {
-            "image": "https://i.ytimg.com/vi/W8N0_JZjuNE/hqdefault.jpg",
-            "size": 4.153543472290039,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Im%20Content%20with%20Losing%20-Underoath%20%2B%20Lyrics-W8N0_JZjuNE.mp4?raw=true"
-        },
-        "Julio Iglesias  -  Como Tu.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 5.745495796203613,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Julio%20Iglesias%20%20-%20%20Como%20Tu.mp4?raw=true"
-        },
-        "Julio Iglesias - A flor de piel.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 8.604720115661621,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Julio%20Iglesias%20-%20A%20flor%20de%20piel.mp4?raw=true"
-        },
-        "Julio Iglesias - De ni\u00f1a a mujer.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 8.197498321533203,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Julio%20Iglesias%20-%20De%20ni%C3%B1a%20a%20mujer.mp4?raw=true"
-        },
-        "Julio Iglesias - La vida sigue igual.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 8.567726135253906,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Julio%20Iglesias%20-%20La%20vida%20sigue%20igual.mp4?raw=true"
-        },
-        "Just Married ~ Marty Robbins  (1958)-D8Wmnv1wAOc.mp4": {
-            "image": "https://i.ytimg.com/vi/D8Wmnv1wAOc/hqdefault.jpg",
-            "size": 6.139708518981934,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Just%20Married%20%7E%20Marty%20Robbins%20%20(1958)-D8Wmnv1wAOc.mp4?raw=true"
-        },
-        "Justice - D.A.N.C.E. (Official Video)-sy1dYFGkPUE.mp4": {
-            "image": "https://i.ytimg.com/vi/sy1dYFGkPUE/hqdefault.jpg",
-            "size": 13.787602424621582,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Justice%20-%20D.A.N.C.E.%20(Official%20Video)-sy1dYFGkPUE.mp4?raw=true"
-        },
-        "Luis Miguel - \u00bfPor Qu\u00e9 Te Conoc\u00ed (Lyric Video)-TVk4jcJkX1k.mp4": {
-            "image": "https://i.ytimg.com/vi/TVk4jcJkX1k/hqdefault.jpg",
-            "size": 9.099642753601074,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Luis%20Miguel%20-%20%C2%BFPor%20Qu%C3%A9%20Te%20Conoc%C3%AD%20(Lyric%20Video)-TVk4jcJkX1k.mp4?raw=true"
-        },
-        "Muere en paz-OR5fi0-OzXs.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 4.602797508239746,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Muere%20en%20paz-OR5fi0-OzXs.mp4?raw=true"
-        },
-        "Muse - Bliss-eMqsWc8muj8.mp4": {
-            "image": "https://i.ytimg.com/vi/eMqsWc8muj8/hqdefault.jpg",
-            "size": 17.543643951416016,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Muse%20-%20Bliss-eMqsWc8muj8.mp4?raw=true"
-        },
-        "Muse - Plug In Baby (Official Video)-dbB-mICjkQM.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 12.98905086517334,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Muse%20-%20Plug%20In%20Baby%20(Official%20Video)-dbB-mICjkQM.mp4?raw=true"
-        },
-        "Muse - Time Is Running Out (video)-O2IuJPh6h_A.mp4": {
-            "image": "https://i.ytimg.com/vi/O2IuJPh6h_A/hqdefault.jpg",
-            "size": 12.09610366821289,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Muse%20-%20Time%20Is%20Running%20Out%20(video)-O2IuJPh6h_A.mp4?raw=true"
-        },
-        "PUNK ENVIDIA KOTXINA LADY DI-9PN6CIBZfjc.mp4": {
-            "image": "https://i.ytimg.com/vi/9PN6CIBZfjc/hqdefault.jpg",
-            "size": 5.756927490234375,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/PUNK%20ENVIDIA%20KOTXINA%20LADY%20DI-9PN6CIBZfjc.mp4?raw=true"
-        },
-        "Punta Umbria-aTdD7J16X-U.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 3.1845550537109375,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Punta%20Umbria-aTdD7J16X-U.mp4?raw=true"
-        },
-        "Puta-fabIxIRG2eY.mp4": {
-            "image": "https://i.ytimg.com/vi/fabIxIRG2eY/hqdefault.jpg",
-            "size": 1.3025550842285156,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Puta-fabIxIRG2eY.mp4?raw=true"
-        },
-        "Queen - Crazy Little Thing Called Love (Official Video)-zO6D_BAuYCI.mp4": {
-            "image": "https://i.ytimg.com/vi/zO6D_BAuYCI/hqdefault.jpg",
-            "size": 12.794487953186035,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Queen%20-%20Crazy%20Little%20Thing%20Called%20Love%20(Official%20Video)-zO6D_BAuYCI.mp4?raw=true"
-        },
-        "Suicide Machines - The Real You-_gJu9_iPWho.mp4": {
-            "image": "https://i.ytimg.com/vi/_gJu9_iPWho/hqdefault.jpg",
-            "size": 3.2259082794189453,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Suicide%20Machines%20-%20The%20Real%20You-_gJu9_iPWho.mp4?raw=true"
-        },
-        "Suicide Machines - The Vans Song-8KeA7PSPPu4.mp4": {
-            "image": "https://i.ytimg.com/vi/8KeA7PSPPu4/hqdefault.jpg",
-            "size": 4.544781684875488,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Suicide%20Machines%20-%20The%20Vans%20Song-8KeA7PSPPu4.mp4?raw=true"
-        },
-        "Suicide Machines - Zero-6vF1TlkqLp8.mp4": {
-            "image": "https://i.ytimg.com/vi/6vF1TlkqLp8/hqdefault.jpg",
-            "size": 2.804112434387207,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Suicide%20Machines%20-%20Zero-6vF1TlkqLp8.mp4?raw=true"
-        },
-        "Superman - Goldfinger-udUCjJphE-0.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 3.816349983215332,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Superman%20-%20Goldfinger-udUCjJphE-0.mp4?raw=true"
-        },
-        "Surf Wax America-hfzkJZSzZxY.mp4": {
-            "image": "https://i.ytimg.com/vi/hfzkJZSzZxY/hqdefault.jpg",
-            "size": 4.826037406921387,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Surf%20Wax%20America-hfzkJZSzZxY.mp4?raw=true"
-        },
-        "Surfari's Stomp-Q6d4oDCsC3o.mp4": {
-            "image": "https://i.ytimg.com/vi/Q6d4oDCsC3o/hqdefault.jpg",
-            "size": 2.222256660461426,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Surfari's%20Stomp-Q6d4oDCsC3o.mp4?raw=true"
-        },
-        "Surfin' Safari (Mono_Remastered 2001)-xSLLtX6NDzI.mp4": {
-            "image": "https://i.ytimg.com/vi/xSLLtX6NDzI/hqdefault.jpg",
-            "size": 4.760502815246582,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Surfin'%20Safari%20(Mono_Remastered%202001)-xSLLtX6NDzI.mp4?raw=true"
-        },
-        "Susana De La Manana-D95XfMHGCt8.mp4": {
-            "image": "https://i.ytimg.com/vi/D95XfMHGCt8/hqdefault.jpg",
-            "size": 6.563767433166504,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Susana%20De%20La%20Manana-D95XfMHGCt8.mp4?raw=true"
-        },
-        "Susy Rebel'd Punk-3mDNuPt9HXw.mp4": {
-            "image": "https://i.ytimg.com/vi/3mDNuPt9HXw/hqdefault.jpg",
-            "size": 5.422119140625,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Susy%20Rebel'd%20Punk-3mDNuPt9HXw.mp4?raw=true"
-        },
-        "Tu Cancion-LYlZlaknfkM.mp4": {
-            "image": "https://i.ytimg.com/vi/LYlZlaknfkM/hqdefault.jpg",
-            "size": 3.5281763076782227,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Tu%20Cancion-LYlZlaknfkM.mp4?raw=true"
-        },
-        "Tu Como Yo - Jose Luis Perales-UqMD3cg1qxM.mp4": {
-            "image": "https://i.ytimg.com/vi/UqMD3cg1qxM/hqdefault.jpg",
-            "size": 10.762249946594238,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Tu%20Como%20Yo%20-%20Jose%20Luis%20Perales-UqMD3cg1qxM.mp4?raw=true"
-        },
-        "Tu Paz - LEAD  Ft.Cash Luna, Lowsan Melgar, Kim Richards, Evan Craft,  Madiel Lara, y Musiko....-5T2cSoRUP54.mp4": {
-            "image": "https://i.ytimg.com/vi/5T2cSoRUP54/hqdefault.jpg",
-            "size": 6.895302772521973,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Tu%20Paz%20-%20LEAD%20%20Ft.Cash%20Luna%2C%20Lowsan%20Melgar%2C%20Kim%20Richards%2C%20Evan%20Craft%2C%20%20Madiel%20Lara%2C%20y%20Musiko....-5T2cSoRUP54.mp4?raw=true"
-        },
-        "Tu Sucia Realidad-cVfTUJ0wrmM.mp4": {
-            "image": "https://i.ytimg.com/vi/cVfTUJ0wrmM/hqdefault.jpg",
-            "size": 0.8271608352661133,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Tu%20Sucia%20Realidad-cVfTUJ0wrmM.mp4?raw=true"
-        },
-        "Tu olvido-J-2aBcHtmkU.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 7.145498275756836,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Tu%20olvido-J-2aBcHtmkU.mp4?raw=true"
-        },
         "U2  - First TV appearance on RTE 1978-oMHy_edKyxo.mp4": {
-            "image": "https://i.ytimg.com/vi/oMHy_edKyxo/hqdefault.jpg",
-            "size": 9.992615699768066,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/U2%20%20-%20First%20TV%20appearance%20on%20RTE%201978-oMHy_edKyxo.mp4?raw=true"
+            "size": 9.992615699768066
         },
         "U2 - I FALL DOWN - October (1981) HiDef  - - SOTW #141-r4AyW6IpzyA.mp4": {
-            "image": "https://i.ytimg.com/vi/r4AyW6IpzyA/hqdefault.jpg",
-            "size": 7.08609676361084,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/U2%20-%20I%20FALL%20DOWN%20-%20October%20(1981)%20HiDef%20%20-%20-%20SOTW%20%23141-r4AyW6IpzyA.mp4?raw=true"
+            "size": 7.08609676361084
         },
         "U2 - Love Is Bigger Than Anything In Its Way-Ki5keBCz8DQ.mp4": {
-            "image": "https://i.ytimg.com/vi/Ki5keBCz8DQ/hqdefault.jpg",
-            "size": 14.867372512817383,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/U2%20-%20Love%20Is%20Bigger%20Than%20Anything%20In%20Its%20Way-Ki5keBCz8DQ.mp4?raw=true"
+            "size": 14.867372512817383
         },
         "U2 - Rejoice (Vinyl, LP)-p9dOz7CManY.mp4": {
-            "image": "https://i.ytimg.com/vi/p9dOz7CManY/hqdefault.jpg",
-            "size": 4.05912971496582,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/U2%20-%20Rejoice%20(Vinyl%2C%20LP)-p9dOz7CManY.mp4?raw=true"
+            "size": 4.05912971496582
         },
         "U2 - Scarlet-WbrFnZ80748.mp4": {
-            "image": "https://i.ytimg.com/vi/WbrFnZ80748/hqdefault.jpg",
-            "size": 10.725458145141602,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/U2%20-%20Scarlet-WbrFnZ80748.mp4?raw=true"
+            "size": 10.725458145141602
         },
         "U2 - Three  1979 (Full EP).mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 17.29551601409912,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/U2%20-%20Three%20%201979%20(Full%20EP).mp4?raw=true"
+            "size": 17.29551601409912
         },
         "U2 - Tomorrow-_tH8jOP98C0.mp4": {
-            "image": "https://i.ytimg.com/vi/_tH8jOP98C0/hqdefault.jpg",
-            "size": 11.983980178833008,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/U2%20-%20Tomorrow-_tH8jOP98C0.mp4?raw=true"
+            "size": 11.983980178833008
         },
         "U2 - With a Shout (Jerusalem) [Richard Skinner BBC Live, September 1981]-7jM1dMtbH3M.mp4": {
-            "image": "https://i.ytimg.com/vi/7jM1dMtbH3M/hqdefault.jpg",
-            "size": 4.385368347167969,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/U2%20-%20With%20a%20Shout%20(Jerusalem)%20%5BRichard%20Skinner%20BBC%20Live%2C%20September%201981%5D-7jM1dMtbH3M.mp4?raw=true"
+            "size": 4.385368347167969
         },
         "U2 Gloria-61rvprZBiIg.mp4": {
-            "image": "https://i.ytimg.com/vi/61rvprZBiIg/hqdefault.jpg",
-            "size": 7.567742347717285,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/U2%20Gloria-61rvprZBiIg.mp4?raw=true"
+            "size": 7.567742347717285
         },
         "U2-Fire (October)-1UPBMTpDSP8.mp4": {
-            "image": "https://i.ytimg.com/vi/1UPBMTpDSP8/hqdefault.jpg",
-            "size": 6.4677581787109375,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/U2-Fire%20(October)-1UPBMTpDSP8.mp4?raw=true"
+            "size": 6.4677581787109375
         },
         "USA For Africa - We Are The World (HQ official Video)-s3wNuru4U0I.mp4": {
-            "image": "https://i.ytimg.com/vi/s3wNuru4U0I/hqdefault.jpg",
-            "size": 34.062456130981445,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/USA%20For%20Africa%20-%20We%20Are%20The%20World%20(HQ%20official%20Video)-s3wNuru4U0I.mp4?raw=true"
+            "size": 34.062456130981445
         },
         "Ugly Kid Joe - Cats In The Cradle (Official Video)-B32yjbCSVpU.mp4": {
-            "image": "https://i.ytimg.com/vi/B32yjbCSVpU/hqdefault.jpg",
-            "size": 11.215716361999512,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Ugly%20Kid%20Joe%20-%20Cats%20In%20The%20Cradle%20(Official%20Video)-B32yjbCSVpU.mp4?raw=true"
+            "size": 11.215716361999512
         },
         "Un Angel No Debe Llorar-rBSHxipRpH8.mp4": {
-            "image": "https://i.ytimg.com/vi/rBSHxipRpH8/hqdefault.jpg",
-            "size": 3.7889299392700195,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Un%20Angel%20No%20Debe%20Llorar-rBSHxipRpH8.mp4?raw=true"
+            "size": 3.7889299392700195
         },
         "Un Mal Paso-3eoSOnpozNA.mp4": {
-            "image": "https://i.ytimg.com/vi/3eoSOnpozNA/hqdefault.jpg",
-            "size": 5.401124000549316,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Un%20Mal%20Paso-3eoSOnpozNA.mp4?raw=true"
+            "size": 5.401124000549316
         },
         "Un Perro Como Tu-kHa-KzfLTxM.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 3.8965635299682617,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Un%20Perro%20Como%20Tu-kHa-KzfLTxM.mp4?raw=true"
+            "size": 3.8965635299682617
         },
         "Un Preso Mas-pEIXv9H0HQA.mp4": {
-            "image": "https://i.ytimg.com/vi/pEIXv9H0HQA/hqdefault.jpg",
-            "size": 7.56429386138916,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Un%20Preso%20Mas-pEIXv9H0HQA.mp4?raw=true"
+            "size": 7.56429386138916
         },
         "Un pedazo de canci\u00f3n-7bYS8k1uaZs.mp4": {
-            "image": "https://i.ytimg.com/vi/7bYS8k1uaZs/hqdefault.jpg",
-            "size": 9.008328437805176,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Un%20pedazo%20de%20canci%C3%B3n-7bYS8k1uaZs.mp4?raw=true"
+            "size": 9.008328437805176
         },
         "Una Lagrima y un Recuerdo-hMFXkDoSaqI.mp4": {
-            "image": "https://i.ytimg.com/vi/hMFXkDoSaqI/hqdefault.jpg",
-            "size": 3.127528190612793,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Una%20Lagrima%20y%20un%20Recuerdo-hMFXkDoSaqI.mp4?raw=true"
+            "size": 3.127528190612793
         },
         "Una parte de m\u00ed-bAZ4bRg-gVE.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 5.585138320922852,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Una%20parte%20de%20m%C3%AD-bAZ4bRg-gVE.mp4?raw=true"
+            "size": 5.585138320922852
         },
         "Unchained Melody ~ The Browns (1959)-9QK8eIBztWM.mp4": {
-            "image": "https://i.ytimg.com/vi/9QK8eIBztWM/hqdefault.jpg",
-            "size": 5.578797340393066,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Unchained%20Melody%20%7E%20The%20Browns%20(1959)-9QK8eIBztWM.mp4?raw=true"
+            "size": 5.578797340393066
         },
         "UnderOATH - A Message for Adrienne-FciEKBQfHjg.mp4": {
-            "image": "https://i.ytimg.com/vi/FciEKBQfHjg/hqdefault.jpg",
-            "size": 7.345707893371582,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/UnderOATH%20-%20A%20Message%20for%20Adrienne-FciEKBQfHjg.mp4?raw=true"
+            "size": 7.345707893371582
         },
         "UnderOath - A Love So Pure-EUDPo21Bdd4.mp4": {
-            "image": "https://i.ytimg.com/vi/EUDPo21Bdd4/hqdefault.jpg",
-            "size": 27.166961669921875,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/UnderOath%20-%20A%20Love%20So%20Pure-EUDPo21Bdd4.mp4?raw=true"
+            "size": 27.166961669921875
         },
         "UnderOath - Cries Of The Past-gQvusP-w5TU.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 11.058502197265625,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/UnderOath%20-%20Cries%20Of%20The%20Past-gQvusP-w5TU.mp4?raw=true"
+            "size": 11.058502197265625
         },
         "UnderOath - The Last-J82lPsWA1v4.mp4": {
-            "image": "https://i.ytimg.com/vi/J82lPsWA1v4/hqdefault.jpg",
-            "size": 10.517258644104004,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/UnderOath%20-%20The%20Last-J82lPsWA1v4.mp4?raw=true"
+            "size": 10.517258644104004
         },
         "UnderOath - Walking Away-MmPZ3gmT6hA.mp4": {
-            "image": "https://i.ytimg.com/vi/MmPZ3gmT6hA/hqdefault.jpg",
-            "size": 10.484475135803223,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/UnderOath%20-%20Walking%20Away-MmPZ3gmT6hA.mp4?raw=true"
+            "size": 10.484475135803223
         },
         "UnderOath-'Alone In December'-gBheSBouGMI.mp4": {
-            "image": "https://i.ytimg.com/vi/gBheSBouGMI/hqdefault.jpg",
-            "size": 6.0431365966796875,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/UnderOath-'Alone%20In%20December'-gBheSBouGMI.mp4?raw=true"
+            "size": 6.0431365966796875
         },
         "Underoath - A Boy Brushed Red Living In Black and White (Live from The Observatory)-TPxt_5lpBKU.mp4": {
-            "image": "https://i.ytimg.com/vi/TPxt_5lpBKU/hqdefault.jpg",
-            "size": 23.35461711883545,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Underoath%20-%20A%20Boy%20Brushed%20Red%20Living%20In%20Black%20and%20White%20(Live%20from%20The%20Observatory)-TPxt_5lpBKU.mp4?raw=true"
+            "size": 23.35461711883545
         },
         "Underoath - And I Dreamt of You (Full Length)-gW6BzNvqtE0.mp4": {
-            "image": "https://i.ytimg.com/vi/gW6BzNvqtE0/hqdefault.jpg",
-            "size": 12.260943412780762,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Underoath%20-%20And%20I%20Dreamt%20of%20You%20(Full%20Length)-gW6BzNvqtE0.mp4?raw=true"
+            "size": 12.260943412780762
         },
         "Underoath - When The Sun Sleeps-_aZus_-1MFI.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 24.598660469055176,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Underoath%20-%20When%20The%20Sun%20Sleeps-_aZus_-1MFI.mp4?raw=true"
+            "size": 24.598660469055176
         },
         "Underwater Visions-U2BVFWtlwWk.mp4": {
-            "image": "https://i.ytimg.com/vi/U2BVFWtlwWk/hqdefault.jpg",
-            "size": 7.272530555725098,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Underwater%20Visions-U2BVFWtlwWk.mp4?raw=true"
+            "size": 7.272530555725098
         },
         "Untitled Melody-zc5ppYQNQFg.mp4": {
-            "image": "https://i.ytimg.com/vi/zc5ppYQNQFg/hqdefault.jpg",
-            "size": 2.2421350479125977,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Untitled%20Melody-zc5ppYQNQFg.mp4?raw=true"
+            "size": 2.2421350479125977
         },
         "Un\u00edsono (Official Video)-FOtq-v8KRqQ.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 11.530308723449707,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Un%C3%ADsono%20(Official%20Video)-FOtq-v8KRqQ.mp4?raw=true"
-        },
-        "Yung Joc - It's Goin Down (Official Music Video)-rFz59Jmgewk.mp4": {
-            "image": "https://i.ytimg.com/vi/rFz59Jmgewk/hqdefault.jpg",
-            "size": 22.561110496520996,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Yung%20Joc%20-%20It's%20Goin%20Down%20(Official%20Music%20Video)-rFz59Jmgewk.mp4?raw=true"
-        },
-        "Yuridia - Ya Es Muy Tarde (Official Video)-FzZS_Lx33Gc.mp4": {
-            "image": "https://i.ytimg.com/vi/FzZS_Lx33Gc/hqdefault.jpg",
-            "size": 11.453177452087402,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Yuridia%20-%20Ya%20Es%20Muy%20Tarde%20(Official%20Video)-FzZS_Lx33Gc.mp4?raw=true"
-        },
-        "murio mi padre conjunto primavera.mp4": {
-            "image": "https://circuitalminds.github.io/static/images/desktop/julia.gif",
-            "size": 5.706813812255859,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/murio%20mi%20padre%20conjunto%20primavera.mp4?raw=true"
-        },
-        "musical youth - never gonna give you up-0L38PlN2msc.mp4": {
-            "image": "https://i.ytimg.com/vi/0L38PlN2msc/hqdefault.jpg",
-            "size": 11.037742614746094,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/musical%20youth%20-%20never%20gonna%20give%20you%20up-0L38PlN2msc.mp4?raw=true"
-        },
-        "sube! sube! sube!-wIlwZsufD2Q.mp4": {
-            "image": "https://i.ytimg.com/vi/wIlwZsufD2Q/hqdefault.jpg",
-            "size": 11.468443870544434,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/sube!%20sube!%20sube!-wIlwZsufD2Q.mp4?raw=true"
-        },
-        "suicide mission-total chaos.wmv-Y3C6q4dcV_A.mp4": {
-            "image": "https://i.ytimg.com/vi/Y3C6q4dcV_A/hqdefault.jpg",
-            "size": 6.004222869873047,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/suicide%20mission-total%20chaos.wmv-Y3C6q4dcV_A.mp4?raw=true"
+            "size": 11.530308723449707
         },
         "u2 - stranger in a strange land (audio)-JDwB2dLnf2o.mp4": {
-            "image": "https://i.ytimg.com/vi/JDwB2dLnf2o/hqdefault.jpg",
-            "size": 6.097503662109375,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/u2%20-%20stranger%20in%20a%20strange%20land%20(audio)-JDwB2dLnf2o.mp4?raw=true"
+            "size": 6.097503662109375
         },
         "una botella (2)-KuffcFYK0cw.mp4": {
-            "image": "https://i.ytimg.com/vi/KuffcFYK0cw/hqdefault.jpg",
-            "size": 7.316672325134277,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/una%20botella%20(2)-KuffcFYK0cw.mp4?raw=true"
+            "size": 7.316672325134277
         },
         "underOath - Giving Up Hurts The Most (Lyrics)-vR4fIup2sY4.mp4": {
-            "image": "https://i.ytimg.com/vi/vR4fIup2sY4/hqdefault.jpg",
-            "size": 18.293659210205078,
-            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/underOath%20-%20Giving%20Up%20Hurts%20The%20Most%20(Lyrics)-vR4fIup2sY4.mp4?raw=true"
+            "size": 18.293659210205078
         }
     }
 }
