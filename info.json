@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 361.93710000000004,
+    "videos": [
         "Un Preso Mas-pEIXv9H0HQA.mp4",
         "U2 - With a Shout (Jerusalem) [Richard Skinner BBC Live, September 1981]-7jM1dMtbH3M.mp4",
         "U2  - First TV appearance on RTE 1978-oMHy_edKyxo.mp4",
@@ -34,7 +35,5 @@
         "U2 - Tomorrow-_tH8jOP98C0.mp4",
         "UnderOATH - A Message for Adrienne-FciEKBQfHjg.mp4",
         "Una parte de mí-bAZ4bRg-gVE.mp4"
-    ],
-    "id": "u",
-    "total_size": 345.17002050781247
+    ]
 }
