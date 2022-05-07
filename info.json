@@ -1,39 +1,171 @@
 {
     "available_space": true,
-    "total_size": 361.93710000000004,
-    "videos": [
-        "Un Preso Mas-pEIXv9H0HQA.mp4",
-        "U2 - With a Shout (Jerusalem) [Richard Skinner BBC Live, September 1981]-7jM1dMtbH3M.mp4",
-        "U2  - First TV appearance on RTE 1978-oMHy_edKyxo.mp4",
-        "Un Angel No Debe Llorar-rBSHxipRpH8.mp4",
-        "Un Mal Paso-3eoSOnpozNA.mp4",
-        "u2 - stranger in a strange land (audio)-JDwB2dLnf2o.mp4",
-        "Underoath - When The Sun Sleeps-_aZus_-1MFI.mp4",
-        "underOath - Giving Up Hurts The Most (Lyrics)-vR4fIup2sY4.mp4",
-        "USA For Africa - We Are The World (HQ official Video)-s3wNuru4U0I.mp4",
-        "Underoath - A Boy Brushed Red Living In Black and White (Live from The Observatory)-TPxt_5lpBKU.mp4",
-        "Untitled Melody-zc5ppYQNQFg.mp4",
-        "U2 Gloria-61rvprZBiIg.mp4",
-        "UnderOath - A Love So Pure-EUDPo21Bdd4.mp4",
-        "Underwater Visions-U2BVFWtlwWk.mp4",
-        "una botella (2)-KuffcFYK0cw.mp4",
-        "Ugly Kid Joe - Cats In The Cradle (Official Video)-B32yjbCSVpU.mp4",
-        "Una Lagrima y un Recuerdo-hMFXkDoSaqI.mp4",
-        "UnderOath - The Last-J82lPsWA1v4.mp4",
-        "Unísono (Official Video)-FOtq-v8KRqQ.mp4",
-        "UnderOath - Walking Away-MmPZ3gmT6hA.mp4",
-        "UnderOath-'Alone In December'-gBheSBouGMI.mp4",
-        "U2 - I FALL DOWN - October (1981) HiDef  - - SOTW #141-r4AyW6IpzyA.mp4",
-        "U2-Fire (October)-1UPBMTpDSP8.mp4",
-        "UnderOath - Cries Of The Past-gQvusP-w5TU.mp4",
-        "Underoath - And I Dreamt of You (Full Length)-gW6BzNvqtE0.mp4",
-        "Unchained Melody ~ The Browns (1959)-9QK8eIBztWM.mp4",
-        "U2 - Rejoice (Vinyl, LP)-p9dOz7CManY.mp4",
-        "Un Perro Como Tu-kHa-KzfLTxM.mp4",
-        "U2 - Scarlet-WbrFnZ80748.mp4",
-        "Un pedazo de canción-7bYS8k1uaZs.mp4",
-        "U2 - Tomorrow-_tH8jOP98C0.mp4",
-        "UnderOATH - A Message for Adrienne-FciEKBQfHjg.mp4",
-        "Una parte de mí-bAZ4bRg-gVE.mp4"
-    ]
+    "files": [
+        {
+            "name": "Un Preso Mas-pEIXv9H0HQA.mp4",
+            "path": "music_u/videos/Un Preso Mas-pEIXv9H0HQA.mp4",
+            "size": 8.122098688000001
+        },
+        {
+            "name": "U2 - With a Shout (Jerusalem) [Richard Skinner BBC Live, September 1981]-7jM1dMtbH3M.mp4",
+            "path": "music_u/videos/U2 - With a Shout (Jerusalem) [Richard Skinner BBC Live, September 1981]-7jM1dMtbH3M.mp4",
+            "size": 4.708753408000001
+        },
+        {
+            "name": "Un Angel No Debe Llorar-rBSHxipRpH8.mp4",
+            "path": "music_u/videos/Un Angel No Debe Llorar-rBSHxipRpH8.mp4",
+            "size": 4.068332544
+        },
+        {
+            "name": "Un Mal Paso-3eoSOnpozNA.mp4",
+            "path": "music_u/videos/Un Mal Paso-3eoSOnpozNA.mp4",
+            "size": 5.799412736000001
+        },
+        {
+            "name": "u2 - stranger in a strange land (audio)-JDwB2dLnf2o.mp4",
+            "path": "music_u/videos/u2 - stranger in a strange land (audio)-JDwB2dLnf2o.mp4",
+            "size": 6.547144704000001
+        },
+        {
+            "name": "Underoath - When The Sun Sleeps-_aZus_-1MFI.mp4",
+            "path": "music_u/videos/Underoath - When The Sun Sleeps-_aZus_-1MFI.mp4",
+            "size": 26.41261056
+        },
+        {
+            "name": "underOath - Giving Up Hurts The Most (Lyrics)-vR4fIup2sY4.mp4",
+            "path": "music_u/videos/underOath - Giving Up Hurts The Most (Lyrics)-vR4fIup2sY4.mp4",
+            "size": 19.642667008
+        },
+        {
+            "name": "USA For Africa - We Are The World (HQ official Video)-s3wNuru4U0I.mp4",
+            "path": "music_u/videos/USA For Africa - We Are The World (HQ official Video)-s3wNuru4U0I.mp4",
+            "size": 36.574283776
+        },
+        {
+            "name": "Underoath - A Boy Brushed Red Living In Black and White (Live from The Observatory)-TPxt_5lpBKU.mp4",
+            "path": "music_u/videos/Underoath - A Boy Brushed Red Living In Black and White (Live from The Observatory)-TPxt_5lpBKU.mp4",
+            "size": 25.076829184
+        },
+        {
+            "name": "Untitled Melody-zc5ppYQNQFg.mp4",
+            "path": "music_u/videos/Untitled Melody-zc5ppYQNQFg.mp4",
+            "size": 2.407474176
+        },
+        {
+            "name": "U2 Gloria-61rvprZBiIg.mp4",
+            "path": "music_u/videos/U2 Gloria-61rvprZBiIg.mp4",
+            "size": 8.125801472000001
+        },
+        {
+            "name": "U2  - First TV appearance on RTE 1978-UMFJR-sZlS4.mp4",
+            "path": "music_u/videos/U2  - First TV appearance on RTE 1978-UMFJR-sZlS4.mp4",
+            "size": 10.729489408000001
+        },
+        {
+            "name": "UnderOath - A Love So Pure-EUDPo21Bdd4.mp4",
+            "path": "music_u/videos/UnderOath - A Love So Pure-EUDPo21Bdd4.mp4",
+            "size": 29.170302976000002
+        },
+        {
+            "name": "Underwater Visions-U2BVFWtlwWk.mp4",
+            "path": "music_u/videos/Underwater Visions-U2BVFWtlwWk.mp4",
+            "size": 7.808820224000001
+        },
+        {
+            "name": "una botella (2)-KuffcFYK0cw.mp4",
+            "path": "music_u/videos/una botella (2)-KuffcFYK0cw.mp4",
+            "size": 7.856217088
+        },
+        {
+            "name": "Ugly Kid Joe - Cats In The Cradle (Official Video)-B32yjbCSVpU.mp4",
+            "path": "music_u/videos/Ugly Kid Joe - Cats In The Cradle (Official Video)-B32yjbCSVpU.mp4",
+            "size": 12.042783744000001
+        },
+        {
+            "name": "Una Lagrima y un Recuerdo-hMFXkDoSaqI.mp4",
+            "path": "music_u/videos/Una Lagrima y un Recuerdo-hMFXkDoSaqI.mp4",
+            "size": 3.358157824
+        },
+        {
+            "name": "UnderOath - The Last-J82lPsWA1v4.mp4",
+            "path": "music_u/videos/UnderOath - The Last-J82lPsWA1v4.mp4",
+            "size": 11.292820480000001
+        },
+        {
+            "name": "Unísono (Official Video)-FOtq-v8KRqQ.mp4",
+            "path": "music_u/videos/Unísono (Official Video)-FOtq-v8KRqQ.mp4",
+            "size": 12.38057472
+        },
+        {
+            "name": "UnderOath - Walking Away-MmPZ3gmT6hA.mp4",
+            "path": "music_u/videos/UnderOath - Walking Away-MmPZ3gmT6hA.mp4",
+            "size": 11.257619456
+        },
+        {
+            "name": "UnderOath-'Alone In December'-gBheSBouGMI.mp4",
+            "path": "music_u/videos/UnderOath-'Alone In December'-gBheSBouGMI.mp4",
+            "size": 6.488768512
+        },
+        {
+            "name": "U2 - I FALL DOWN - October (1981) HiDef  - - SOTW #141-r4AyW6IpzyA.mp4",
+            "path": "music_u/videos/U2 - I FALL DOWN - October (1981) HiDef  - - SOTW #141-r4AyW6IpzyA.mp4",
+            "size": 7.608638464
+        },
+        {
+            "name": "U2-Fire (October)-1UPBMTpDSP8.mp4",
+            "path": "music_u/videos/U2-Fire (October)-1UPBMTpDSP8.mp4",
+            "size": 6.944702464000001
+        },
+        {
+            "name": "UnderOath - Cries Of The Past-gQvusP-w5TU.mp4",
+            "path": "music_u/videos/UnderOath - Cries Of The Past-gQvusP-w5TU.mp4",
+            "size": 11.87397632
+        },
+        {
+            "name": "Underoath - And I Dreamt of You (Full Length)-gW6BzNvqtE0.mp4",
+            "path": "music_u/videos/Underoath - And I Dreamt of You (Full Length)-gW6BzNvqtE0.mp4",
+            "size": 13.165087744000001
+        },
+        {
+            "name": "Unchained Melody ~ The Browns (1959)-9QK8eIBztWM.mp4",
+            "path": "music_u/videos/Unchained Melody ~ The Browns (1959)-9QK8eIBztWM.mp4",
+            "size": 5.990188032000001
+        },
+        {
+            "name": "Un Perro Como Tu-kHa-KzfLTxM.mp4",
+            "path": "music_u/videos/Un Perro Como Tu-kHa-KzfLTxM.mp4",
+            "size": 4.1839032320000005
+        },
+        {
+            "name": "U2 - Scarlet-WbrFnZ80748.mp4",
+            "path": "music_u/videos/U2 - Scarlet-WbrFnZ80748.mp4",
+            "size": 11.516372992
+        },
+        {
+            "name": "Un pedazo de canción-7bYS8k1uaZs.mp4",
+            "path": "music_u/videos/Un pedazo de canción-7bYS8k1uaZs.mp4",
+            "size": 9.672619008
+        },
+        {
+            "name": "U2 - Tomorrow-_tH8jOP98C0.mp4",
+            "path": "music_u/videos/U2 - Tomorrow-_tH8jOP98C0.mp4",
+            "size": 12.867700736000002
+        },
+        {
+            "name": "UnderOATH - A Message for Adrienne-FciEKBQfHjg.mp4",
+            "path": "music_u/videos/UnderOATH - A Message for Adrienne-FciEKBQfHjg.mp4",
+            "size": 7.887393792
+        },
+        {
+            "name": "U2 - Rejoice (Vinyl, LP)-2JxRGvzwzxc.mp4",
+            "path": "music_u/videos/U2 - Rejoice (Vinyl, LP)-2JxRGvzwzxc.mp4",
+            "size": 4.3584573440000005
+        },
+        {
+            "name": "Una parte de mí-bAZ4bRg-gVE.mp4",
+            "path": "music_u/videos/Una parte de mí-bAZ4bRg-gVE.mp4",
+            "size": 5.996996608000001
+        }
+    ],
+    "total_size": 361.93699942399996
 }
