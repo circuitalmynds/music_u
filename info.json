@@ -1,236 +1,283 @@
 {
     "available_space": true,
-    "files": [
+    "content": [
         {
             "name": "Cabaret Voltaire - Ghostalk (1985)-prOjE8gyRL8.mp4",
-            "path": "music_u/videos/Cabaret Voltaire - Ghostalk (1985)-prOjE8gyRL8.mp4",
-            "size": 26.734735360000002
+            "path": "u/videos/Cabaret Voltaire - Ghostalk (1985)-prOjE8gyRL8.mp4",
+            "size": 26.734735360000002,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Cabaret Voltaire - Ghostalk (1985)-prOjE8gyRL8.mp4?raw=true"
         },
         {
             "name": "U2 - With a Shout (Jerusalem) [Richard Skinner BBC Live, September 1981]-7jM1dMtbH3M.mp4",
-            "path": "music_u/videos/U2 - With a Shout (Jerusalem) [Richard Skinner BBC Live, September 1981]-7jM1dMtbH3M.mp4",
-            "size": 4.708753408000001
+            "path": "u/videos/U2 - With a Shout (Jerusalem) [Richard Skinner BBC Live, September 1981]-7jM1dMtbH3M.mp4",
+            "size": 4.708753408000001,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/U2 - With a Shout (Jerusalem) [Richard Skinner BBC Live, September 1981]-7jM1dMtbH3M.mp4?raw=true"
         },
         {
             "name": "Unísono (Official Video)-FOtq-v8KRqQ.mp4",
-            "path": "music_u/videos/Unísono (Official Video)-FOtq-v8KRqQ.mp4",
-            "size": 12.38057472
+            "path": "u/videos/Unísono (Official Video)-FOtq-v8KRqQ.mp4",
+            "size": 12.38057472,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Unísono (Official Video)-FOtq-v8KRqQ.mp4?raw=true"
         },
         {
             "name": "U2 - Tomorrow-_tH8jOP98C0.mp4",
-            "path": "music_u/videos/U2 - Tomorrow-_tH8jOP98C0.mp4",
-            "size": 12.867700736000002
+            "path": "u/videos/U2 - Tomorrow-_tH8jOP98C0.mp4",
+            "size": 12.867700736000002,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/U2 - Tomorrow-_tH8jOP98C0.mp4?raw=true"
         },
         {
             "name": "UnderOath - The Last-J82lPsWA1v4.mp4",
-            "path": "music_u/videos/UnderOath - The Last-J82lPsWA1v4.mp4",
-            "size": 11.292820480000001
+            "path": "u/videos/UnderOath - The Last-J82lPsWA1v4.mp4",
+            "size": 11.292820480000001,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/UnderOath - The Last-J82lPsWA1v4.mp4?raw=true"
         },
         {
             "name": "Un Preso Mas-pEIXv9H0HQA.mp4",
-            "path": "music_u/videos/Un Preso Mas-pEIXv9H0HQA.mp4",
-            "size": 8.122098688000001
+            "path": "u/videos/Un Preso Mas-pEIXv9H0HQA.mp4",
+            "size": 8.122098688000001,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Un Preso Mas-pEIXv9H0HQA.mp4?raw=true"
         },
         {
             "name": "Julio Iglesias - - Me Va Me Va-lQ7BqEjFqAA.mp4",
-            "path": "music_u/videos/Julio Iglesias - - Me Va Me Va-lQ7BqEjFqAA.mp4",
-            "size": 11.477833728
+            "path": "u/videos/Julio Iglesias - - Me Va Me Va-lQ7BqEjFqAA.mp4",
+            "size": 11.477833728,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Julio Iglesias - - Me Va Me Va-lQ7BqEjFqAA.mp4?raw=true"
         },
         {
             "name": "Raindrops Keep Falling on my Head-sySlY1XKlhM.mp4",
-            "path": "music_u/videos/Raindrops Keep Falling on my Head-sySlY1XKlhM.mp4",
-            "size": 2.9987287040000004
+            "path": "u/videos/Raindrops Keep Falling on my Head-sySlY1XKlhM.mp4",
+            "size": 2.9987287040000004,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Raindrops Keep Falling on my Head-sySlY1XKlhM.mp4?raw=true"
         },
         {
             "name": "Underoath - And I Dreamt of You (Full Length)-gW6BzNvqtE0.mp4",
-            "path": "music_u/videos/Underoath - And I Dreamt of You (Full Length)-gW6BzNvqtE0.mp4",
-            "size": 13.165087744000001
+            "path": "u/videos/Underoath - And I Dreamt of You (Full Length)-gW6BzNvqtE0.mp4",
+            "size": 13.165087744000001,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Underoath - And I Dreamt of You (Full Length)-gW6BzNvqtE0.mp4?raw=true"
         },
         {
             "name": "Eugeniusz Morawski-Dąbrowa - Don Kiszot, symphonic poem (1910)-FSdsF_D1W8g.mp4",
-            "path": "music_u/videos/Eugeniusz Morawski-Dąbrowa - Don Kiszot, symphonic poem (1910)-FSdsF_D1W8g.mp4",
-            "size": 25.218819072000002
+            "path": "u/videos/Eugeniusz Morawski-Dąbrowa - Don Kiszot, symphonic poem (1910)-FSdsF_D1W8g.mp4",
+            "size": 25.218819072000002,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Eugeniusz Morawski-Dąbrowa - Don Kiszot, symphonic poem (1910)-FSdsF_D1W8g.mp4?raw=true"
         },
         {
             "name": "Una Lagrima y un Recuerdo-hMFXkDoSaqI.mp4",
-            "path": "music_u/videos/Una Lagrima y un Recuerdo-hMFXkDoSaqI.mp4",
-            "size": 3.358157824
+            "path": "u/videos/Una Lagrima y un Recuerdo-hMFXkDoSaqI.mp4",
+            "size": 3.358157824,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Una Lagrima y un Recuerdo-hMFXkDoSaqI.mp4?raw=true"
         },
         {
             "name": "The Faceless - Autotheist Movement I, II & III-HN4Fv39Zm9g.mp4",
-            "path": "music_u/videos/The Faceless - Autotheist Movement I, II & III-HN4Fv39Zm9g.mp4",
-            "size": 24.672800768000002
+            "path": "u/videos/The Faceless - Autotheist Movement I, II & III-HN4Fv39Zm9g.mp4",
+            "size": 24.672800768000002,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/The Faceless - Autotheist Movement I, II & III-HN4Fv39Zm9g.mp4?raw=true"
         },
         {
             "name": "Underoath - When The Sun Sleeps-_aZus_-1MFI.mp4",
-            "path": "music_u/videos/Underoath - When The Sun Sleeps-_aZus_-1MFI.mp4",
-            "size": 26.41261056
+            "path": "u/videos/Underoath - When The Sun Sleeps-_aZus_-1MFI.mp4",
+            "size": 26.41261056,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Underoath - When The Sun Sleeps-_aZus_-1MFI.mp4?raw=true"
         },
         {
             "name": "Tartini Violin Sonata in G minor ''Devil's Trill Sonata''-z7rxl5KsPjs.mp4",
-            "path": "music_u/videos/Tartini Violin Sonata in G minor ''Devil's Trill Sonata''-z7rxl5KsPjs.mp4",
-            "size": 39.6217344
+            "path": "u/videos/Tartini Violin Sonata in G minor ''Devil's Trill Sonata''-z7rxl5KsPjs.mp4",
+            "size": 39.6217344,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Tartini Violin Sonata in G minor ''Devil's Trill Sonata''-z7rxl5KsPjs.mp4?raw=true"
         },
         {
             "name": "Un Perro Como Tu-kHa-KzfLTxM.mp4",
-            "path": "music_u/videos/Un Perro Como Tu-kHa-KzfLTxM.mp4",
-            "size": 4.1839032320000005
+            "path": "u/videos/Un Perro Como Tu-kHa-KzfLTxM.mp4",
+            "size": 4.1839032320000005,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Un Perro Como Tu-kHa-KzfLTxM.mp4?raw=true"
         },
         {
             "name": "USA For Africa - We Are The World (HQ official Video)-s3wNuru4U0I.mp4",
-            "path": "music_u/videos/USA For Africa - We Are The World (HQ official Video)-s3wNuru4U0I.mp4",
-            "size": 36.574283776
+            "path": "u/videos/USA For Africa - We Are The World (HQ official Video)-s3wNuru4U0I.mp4",
+            "size": 36.574283776,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/USA For Africa - We Are The World (HQ official Video)-s3wNuru4U0I.mp4?raw=true"
         },
         {
             "name": "China Crisis - Working With Fire And Steel-srhAmIgvL54.mp4",
-            "path": "music_u/videos/China Crisis - Working With Fire And Steel-srhAmIgvL54.mp4",
-            "size": 16.338675712
+            "path": "u/videos/China Crisis - Working With Fire And Steel-srhAmIgvL54.mp4",
+            "size": 16.338675712,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/China Crisis - Working With Fire And Steel-srhAmIgvL54.mp4?raw=true"
         },
         {
             "name": "U2 - Scarlet-WbrFnZ80748.mp4",
-            "path": "music_u/videos/U2 - Scarlet-WbrFnZ80748.mp4",
-            "size": 11.516372992
+            "path": "u/videos/U2 - Scarlet-WbrFnZ80748.mp4",
+            "size": 11.516372992,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/U2 - Scarlet-WbrFnZ80748.mp4?raw=true"
         },
         {
             "name": "una botella (2)-KuffcFYK0cw.mp4",
-            "path": "music_u/videos/una botella (2)-KuffcFYK0cw.mp4",
-            "size": 7.856217088
+            "path": "u/videos/una botella (2)-KuffcFYK0cw.mp4",
+            "size": 7.856217088,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/una botella (2)-KuffcFYK0cw.mp4?raw=true"
         },
         {
             "name": "UnderOath-'Alone In December'-gBheSBouGMI.mp4",
-            "path": "music_u/videos/UnderOath-'Alone In December'-gBheSBouGMI.mp4",
-            "size": 6.488768512
+            "path": "u/videos/UnderOath-'Alone In December'-gBheSBouGMI.mp4",
+            "size": 6.488768512,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/UnderOath-'Alone In December'-gBheSBouGMI.mp4?raw=true"
         },
         {
             "name": "Un Mal Paso-3eoSOnpozNA.mp4",
-            "path": "music_u/videos/Un Mal Paso-3eoSOnpozNA.mp4",
-            "size": 5.799412736000001
+            "path": "u/videos/Un Mal Paso-3eoSOnpozNA.mp4",
+            "size": 5.799412736000001,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Un Mal Paso-3eoSOnpozNA.mp4?raw=true"
         },
         {
             "name": "João Gilberto - 02 - Desafinado-cPz_BsgVHz0.mp4",
-            "path": "music_u/videos/João Gilberto - 02 - Desafinado-cPz_BsgVHz0.mp4",
-            "size": 2.882450432
+            "path": "u/videos/João Gilberto - 02 - Desafinado-cPz_BsgVHz0.mp4",
+            "size": 2.882450432,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/João Gilberto - 02 - Desafinado-cPz_BsgVHz0.mp4?raw=true"
         },
         {
             "name": "UnderOATH - A Message for Adrienne-FciEKBQfHjg.mp4",
-            "path": "music_u/videos/UnderOATH - A Message for Adrienne-FciEKBQfHjg.mp4",
-            "size": 7.887393792
+            "path": "u/videos/UnderOATH - A Message for Adrienne-FciEKBQfHjg.mp4",
+            "size": 7.887393792,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/UnderOATH - A Message for Adrienne-FciEKBQfHjg.mp4?raw=true"
         },
         {
             "name": "U2 Gloria-61rvprZBiIg.mp4",
-            "path": "music_u/videos/U2 Gloria-61rvprZBiIg.mp4",
-            "size": 8.125801472000001
+            "path": "u/videos/U2 Gloria-61rvprZBiIg.mp4",
+            "size": 8.125801472000001,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/U2 Gloria-61rvprZBiIg.mp4?raw=true"
         },
         {
             "name": "The Chemical Brothers - The Test-RxOJb1QldOw.mp4",
-            "path": "music_u/videos/The Chemical Brothers - The Test-RxOJb1QldOw.mp4",
-            "size": 24.279575552
+            "path": "u/videos/The Chemical Brothers - The Test-RxOJb1QldOw.mp4",
+            "size": 24.279575552,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/The Chemical Brothers - The Test-RxOJb1QldOw.mp4?raw=true"
         },
         {
             "name": "u2 - stranger in a strange land (audio)-JDwB2dLnf2o.mp4",
-            "path": "music_u/videos/u2 - stranger in a strange land (audio)-JDwB2dLnf2o.mp4",
-            "size": 6.547144704000001
+            "path": "u/videos/u2 - stranger in a strange land (audio)-JDwB2dLnf2o.mp4",
+            "size": 6.547144704000001,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/u2 - stranger in a strange land (audio)-JDwB2dLnf2o.mp4?raw=true"
         },
         {
             "name": "U2  - First TV appearance on RTE 1978-UMFJR-sZlS4.mp4",
-            "path": "music_u/videos/U2  - First TV appearance on RTE 1978-UMFJR-sZlS4.mp4",
-            "size": 10.729489408000001
+            "path": "u/videos/U2  - First TV appearance on RTE 1978-UMFJR-sZlS4.mp4",
+            "size": 10.729489408000001,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/U2  - First TV appearance on RTE 1978-UMFJR-sZlS4.mp4?raw=true"
         },
         {
             "name": "Somewhere In Time-QPROkOaqE_4.mp4",
-            "path": "music_u/videos/Somewhere In Time-QPROkOaqE_4.mp4",
-            "size": 21.66440448
+            "path": "u/videos/Somewhere In Time-QPROkOaqE_4.mp4",
+            "size": 21.66440448,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Somewhere In Time-QPROkOaqE_4.mp4?raw=true"
         },
         {
             "name": "Underoath - A Boy Brushed Red Living In Black and White (Live from The Observatory)-TPxt_5lpBKU.mp4",
-            "path": "music_u/videos/Underoath - A Boy Brushed Red Living In Black and White (Live from The Observatory)-TPxt_5lpBKU.mp4",
-            "size": 25.076829184
+            "path": "u/videos/Underoath - A Boy Brushed Red Living In Black and White (Live from The Observatory)-TPxt_5lpBKU.mp4",
+            "size": 25.076829184,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Underoath - A Boy Brushed Red Living In Black and White (Live from The Observatory)-TPxt_5lpBKU.mp4?raw=true"
         },
         {
             "name": "UnderOath - Walking Away-MmPZ3gmT6hA.mp4",
-            "path": "music_u/videos/UnderOath - Walking Away-MmPZ3gmT6hA.mp4",
-            "size": 11.257619456
+            "path": "u/videos/UnderOath - Walking Away-MmPZ3gmT6hA.mp4",
+            "size": 11.257619456,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/UnderOath - Walking Away-MmPZ3gmT6hA.mp4?raw=true"
         },
         {
             "name": "Unchained Melody ~ The Browns (1959)-9QK8eIBztWM.mp4",
-            "path": "music_u/videos/Unchained Melody ~ The Browns (1959)-9QK8eIBztWM.mp4",
-            "size": 5.990188032000001
+            "path": "u/videos/Unchained Melody ~ The Browns (1959)-9QK8eIBztWM.mp4",
+            "size": 5.990188032000001,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Unchained Melody ~ The Browns (1959)-9QK8eIBztWM.mp4?raw=true"
         },
         {
             "name": "Rachmaninov - Vocalise Op 34 No 14-b0FpMjsBerY.mp4",
-            "path": "music_u/videos/Rachmaninov - Vocalise Op 34 No 14-b0FpMjsBerY.mp4",
-            "size": 14.799049728000002
+            "path": "u/videos/Rachmaninov - Vocalise Op 34 No 14-b0FpMjsBerY.mp4",
+            "size": 14.799049728000002,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Rachmaninov - Vocalise Op 34 No 14-b0FpMjsBerY.mp4?raw=true"
         },
         {
             "name": "underOath - Giving Up Hurts The Most (Lyrics)-vR4fIup2sY4.mp4",
-            "path": "music_u/videos/underOath - Giving Up Hurts The Most (Lyrics)-vR4fIup2sY4.mp4",
-            "size": 19.642667008
+            "path": "u/videos/underOath - Giving Up Hurts The Most (Lyrics)-vR4fIup2sY4.mp4",
+            "size": 19.642667008,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/underOath - Giving Up Hurts The Most (Lyrics)-vR4fIup2sY4.mp4?raw=true"
         },
         {
             "name": "Miroirs - III. Une barque sur l'océan-wkAnau-XU80.mp4",
-            "path": "music_u/videos/Miroirs - III. Une barque sur l'océan-wkAnau-XU80.mp4",
-            "size": 12.488436736
+            "path": "u/videos/Miroirs - III. Une barque sur l'océan-wkAnau-XU80.mp4",
+            "size": 12.488436736,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Miroirs - III. Une barque sur l'océan-wkAnau-XU80.mp4?raw=true"
         },
         {
             "name": "Ugly Kid Joe - Cats In The Cradle (Official Video)-B32yjbCSVpU.mp4",
-            "path": "music_u/videos/Ugly Kid Joe - Cats In The Cradle (Official Video)-B32yjbCSVpU.mp4",
-            "size": 12.042783744000001
+            "path": "u/videos/Ugly Kid Joe - Cats In The Cradle (Official Video)-B32yjbCSVpU.mp4",
+            "size": 12.042783744000001,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Ugly Kid Joe - Cats In The Cradle (Official Video)-B32yjbCSVpU.mp4?raw=true"
         },
         {
             "name": "Ganas de Vivir-j4MSDDa_GOk.mp4",
-            "path": "music_u/videos/Ganas de Vivir-j4MSDDa_GOk.mp4",
-            "size": 4.5794508800000004
+            "path": "u/videos/Ganas de Vivir-j4MSDDa_GOk.mp4",
+            "size": 4.5794508800000004,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Ganas de Vivir-j4MSDDa_GOk.mp4?raw=true"
         },
         {
             "name": "U2 - Rejoice (Vinyl, LP)-2JxRGvzwzxc.mp4",
-            "path": "music_u/videos/U2 - Rejoice (Vinyl, LP)-2JxRGvzwzxc.mp4",
-            "size": 4.3584573440000005
+            "path": "u/videos/U2 - Rejoice (Vinyl, LP)-2JxRGvzwzxc.mp4",
+            "size": 4.3584573440000005,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/U2 - Rejoice (Vinyl, LP)-2JxRGvzwzxc.mp4?raw=true"
         },
         {
             "name": "Un Angel No Debe Llorar-rBSHxipRpH8.mp4",
-            "path": "music_u/videos/Un Angel No Debe Llorar-rBSHxipRpH8.mp4",
-            "size": 4.068332544
+            "path": "u/videos/Un Angel No Debe Llorar-rBSHxipRpH8.mp4",
+            "size": 4.068332544,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Un Angel No Debe Llorar-rBSHxipRpH8.mp4?raw=true"
         },
         {
             "name": "Una parte de mí-bAZ4bRg-gVE.mp4",
-            "path": "music_u/videos/Una parte de mí-bAZ4bRg-gVE.mp4",
-            "size": 5.996996608000001
+            "path": "u/videos/Una parte de mí-bAZ4bRg-gVE.mp4",
+            "size": 5.996996608000001,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Una parte de mí-bAZ4bRg-gVE.mp4?raw=true"
         },
         {
             "name": "U2-Fire (October)-1UPBMTpDSP8.mp4",
-            "path": "music_u/videos/U2-Fire (October)-1UPBMTpDSP8.mp4",
-            "size": 6.944702464000001
+            "path": "u/videos/U2-Fire (October)-1UPBMTpDSP8.mp4",
+            "size": 6.944702464000001,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/U2-Fire (October)-1UPBMTpDSP8.mp4?raw=true"
         },
         {
             "name": "Untitled Melody-zc5ppYQNQFg.mp4",
-            "path": "music_u/videos/Untitled Melody-zc5ppYQNQFg.mp4",
-            "size": 2.407474176
+            "path": "u/videos/Untitled Melody-zc5ppYQNQFg.mp4",
+            "size": 2.407474176,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Untitled Melody-zc5ppYQNQFg.mp4?raw=true"
         },
         {
             "name": "UnderOath - A Love So Pure-EUDPo21Bdd4.mp4",
-            "path": "music_u/videos/UnderOath - A Love So Pure-EUDPo21Bdd4.mp4",
-            "size": 29.170302976000002
+            "path": "u/videos/UnderOath - A Love So Pure-EUDPo21Bdd4.mp4",
+            "size": 29.170302976000002,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/UnderOath - A Love So Pure-EUDPo21Bdd4.mp4?raw=true"
         },
         {
             "name": "Underwater Visions-U2BVFWtlwWk.mp4",
-            "path": "music_u/videos/Underwater Visions-U2BVFWtlwWk.mp4",
-            "size": 7.808820224000001
+            "path": "u/videos/Underwater Visions-U2BVFWtlwWk.mp4",
+            "size": 7.808820224000001,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Underwater Visions-U2BVFWtlwWk.mp4?raw=true"
         },
         {
             "name": "Un pedazo de canción-7bYS8k1uaZs.mp4",
-            "path": "music_u/videos/Un pedazo de canción-7bYS8k1uaZs.mp4",
-            "size": 9.672619008
+            "path": "u/videos/Un pedazo de canción-7bYS8k1uaZs.mp4",
+            "size": 9.672619008,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Un pedazo de canción-7bYS8k1uaZs.mp4?raw=true"
         },
         {
             "name": "U2 - I FALL DOWN - October (1981) HiDef  - - SOTW #141-r4AyW6IpzyA.mp4",
-            "path": "music_u/videos/U2 - I FALL DOWN - October (1981) HiDef  - - SOTW #141-r4AyW6IpzyA.mp4",
-            "size": 7.608638464
+            "path": "u/videos/U2 - I FALL DOWN - October (1981) HiDef  - - SOTW #141-r4AyW6IpzyA.mp4",
+            "size": 7.608638464,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/U2 - I FALL DOWN - October (1981) HiDef  - - SOTW #141-r4AyW6IpzyA.mp4?raw=true"
         },
         {
             "name": "UnderOath - Cries Of The Past-gQvusP-w5TU.mp4",
-            "path": "music_u/videos/UnderOath - Cries Of The Past-gQvusP-w5TU.mp4",
-            "size": 11.87397632
+            "path": "u/videos/UnderOath - Cries Of The Past-gQvusP-w5TU.mp4",
+            "size": 11.87397632,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/UnderOath - Cries Of The Past-gQvusP-w5TU.mp4?raw=true"
         }
     ],
+    "ready_to_push": true,
     "total_size": 589.6936949760001
 }
