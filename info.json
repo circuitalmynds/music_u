@@ -163,6 +163,13 @@
             "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Alexander Brailowski - Chopin, Valse Brillante in A flat-wVCnwqvJ054.mp4?raw=true"
         },
         {
+            "id": "lQ7BqEjFqAA",
+            "name": "Julio Iglesias - - Me Va, Me Va-lQ7BqEjFqAA.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/u/videos/Julio Iglesias - - Me Va, Me Va-lQ7BqEjFqAA.mp4",
+            "size": 6.950176,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Julio Iglesias - - Me Va, Me Va-lQ7BqEjFqAA.mp4?raw=true"
+        },
+        {
             "id": "gBheSBouGMI",
             "name": "UnderOath-'Alone In December'-gBheSBouGMI.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/u/videos/UnderOath-'Alone In December'-gBheSBouGMI.mp4",
@@ -254,6 +261,13 @@
             "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Liszt, Wagner - Isoldes Liebestod, S.447-_gE5D1Md1vk.mp4?raw=true"
         },
         {
+            "id": "2JxRGvzwzxc",
+            "name": "Rejoice (Remastered 2008)-2JxRGvzwzxc.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/u/videos/Rejoice (Remastered 2008)-2JxRGvzwzxc.mp4",
+            "size": 2.294139,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Rejoice (Remastered 2008)-2JxRGvzwzxc.mp4?raw=true"
+        },
+        {
             "id": "9QK8eIBztWM",
             "name": "Unchained Melody ~ The Browns (1959)-9QK8eIBztWM.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/u/videos/Unchained Melody ~ The Browns (1959)-9QK8eIBztWM.mp4",
@@ -322,6 +336,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/u/videos/Oscar Aleman - Apanhei Te, Cavaquinho-2BFaV07FOYs.mp4",
             "size": 4.3210679999999995,
             "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Oscar Aleman - Apanhei Te, Cavaquinho-2BFaV07FOYs.mp4?raw=true"
+        },
+        {
+            "id": "B32yjbCSVpU",
+            "name": "Ugly Kid Joe - Cats In The Cradle-B32yjbCSVpU.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/u/videos/Ugly Kid Joe - Cats In The Cradle-B32yjbCSVpU.mp4",
+            "size": 5.006936,
+            "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/Ugly Kid Joe - Cats In The Cradle-B32yjbCSVpU.mp4?raw=true"
         },
         {
             "id": "j4MSDDa_GOk",
@@ -436,5 +457,5 @@
             "url": "https://github.com/circuitalmynds/music_u/blob/main/videos/UnderOath - Cries Of The Past-gQvusP-w5TU.mp4?raw=true"
         }
     ],
-    "total_size": 690.2501839999998
+    "total_size": 704.5014349999997
 }
